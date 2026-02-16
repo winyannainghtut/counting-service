@@ -36,3 +36,4 @@ Run the container:
 ### Dependencies
 
 This application is intended to be used by the dashboard service.
+##
